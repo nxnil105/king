@@ -11,7 +11,7 @@ import requests
 bit = platform.architecture()[0]
  
 if bit == '64bit':
-if bit == '32bit':
+
  
     from nox import nox
  
