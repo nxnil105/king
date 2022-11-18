@@ -13,7 +13,7 @@ bit = platform.architecture()[0]
 if bit == '64bit':
 
  
-    from nox import nox
+    from nox import ud
  
     Main()
     
